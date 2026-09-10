@@ -4,4 +4,4 @@
 
 layout: home
 ---
-This is some text
+This is some text in index.md
