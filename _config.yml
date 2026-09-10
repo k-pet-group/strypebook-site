@@ -17,8 +17,7 @@ title: Creative Python Programming with Strype
 email: team@strype.org
 description: >- # this means to ignore newlines until "baseurl:"
    Creative Python Programming with Strype is a series of books teaching introductory 
-   Python programming using the Strype platform. The learning approach emphasises
-   creativity, motivation, and the use of engaging examples.
+   Python programming using the Strype platform.
 baseurl: "/strypebook-site" # the subpath of your site, e.g. /blog
 url: "https://k-pet-group.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
